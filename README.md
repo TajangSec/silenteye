@@ -1,7 +1,8 @@
 # silenteye
 silenteye-0.4.1-Portable
+# 在Release里面下载
 
-原版需要安装，我将其打包成了单文件，也就是 silenteye便携版，方便使用。
+## 原版需要安装，我将其打包成了单文件，也就是 silenteye便携版，方便使用。
 The original version requires installation, and I have packaged it into a single file, silenteye portable, for ease of use.
 
 SilentEye 是一款跨平台应用程序，旨在方便用户使用隐写术，即在图片或声音中隐藏信息。它提供了一个非常漂亮的界面，并通过使用插件系统轻松集成了新的隐写术算法和加密过程。
